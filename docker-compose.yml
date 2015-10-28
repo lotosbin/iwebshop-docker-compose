@@ -1,4 +1,4 @@
-web:
+web2:
   build: .
   volumes:
     - ./www/:/var/www/html/
